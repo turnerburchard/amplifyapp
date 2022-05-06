@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "amplifyappebb0021a": {}
+        "amplifyappebb0021a": {},
+        "true": {}
       }
     }
   }
